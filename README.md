@@ -16,7 +16,7 @@
 ## Результат
 
 1. 1-неуспешнй тест
-2. [Описание ошибки](https://github.com/SergeyQA13/Start-java-1.2/issues/1)
+2. [Ссылка на ошибку](https://github.com/SergeyQA13/Start-java-1.2/issues/1)
 
 ## Общие рекомендации ##
 
